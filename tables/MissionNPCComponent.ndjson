@@ -943,3 +943,13 @@
 {"id": 182, "missionID": 2076, "offersMission": 1, "acceptsMission": 0, "gate_version": "njhub"}
 {"id": 183, "missionID": 2078, "offersMission": 1, "acceptsMission": 1, "gate_version": "auramar"}
 {"id": 184, "missionID": 2090, "offersMission": 1, "acceptsMission": 1, "gate_version": "auramar"}
+{"id": 49017, "missionID": 2094, "offersMission": 1, "acceptsMission": 0, "gate_version": null}
+{"id": 178, "missionID": 2094, "offersMission": 0, "acceptsMission": 1, "gate_version": null}
+{"id": 178, "missionID": 2095, "offersMission": 1, "acceptsMission": 0, "gate_version": null}
+{"id": 171, "missionID": 2095, "offersMission": 0, "acceptsMission": 1, "gate_version": null}
+{"id": 171, "missionID": 2096, "offersMission": 1, "acceptsMission": 1, "gate_version": null}
+{"id": 171, "missionID": 2097, "offersMission": 1, "acceptsMission": 0, "gate_version": null}
+{"id": 49017, "missionID": 2097, "offersMission": 0, "acceptsMission": 1, "gate_version": null}
+{"id": 49017, "missionID": 2098, "offersMission": 1, "acceptsMission": 1, "gate_version": null}
+{"id": 49017, "missionID": 2099, "offersMission": 1, "acceptsMission": 1, "gate_version": null}
+{"id": 49017, "missionID": 2100, "offersMission": 1, "acceptsMission": 1, "gate_version": null}

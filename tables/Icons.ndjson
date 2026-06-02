@@ -3295,3 +3295,12 @@
 {"IconID": 4776, "IconPath": "..\\..\\textures\\blu\\ui\\hud\\flannelsuiticon.dds", "IconName": null}
 {"IconID": 4777, "IconPath": "..\\..\\textures\\newcontent\\ui\\missions\\chipclickmas.dds", "IconName": null}
 {"IconID": 4778, "IconPath": "..\\..\\textures\\newcontent\\ui\\missions\\josb.dds", "IconName": null}
+{"IconID": 4779, "IconPath": "..\\..\\textures\\nu_content\\ui\\missions\\farnhamspoon_big.dds", "IconName": null}
+{"IconID": 4780, "IconPath": "..\\..\\textures\\nu_content\\ui\\inventory\\consumables\\secretrecipe1.dds", "IconName": null}
+{"IconID": 4781, "IconPath": "..\\..\\textures\\nu_content\\ui\\inventory\\consumables\\secretrecipe2.dds", "IconName": null}
+{"IconID": 4782, "IconPath": "..\\..\\textures\\nu_content\\ui\\inventory\\consumables\\secretrecipe3.dds", "IconName": null}
+{"IconID": 4783, "IconPath": "..\\..\\textures\\nu_content\\ui\\inventory\\consumables\\secretrecipe4.dds", "IconName": null}
+{"IconID": 4784, "IconPath": "..\\..\\textures\\nu_content\\ui\\missions\\secret_ingredient_big.dds", "IconName": null}
+{"IconID": 4785, "IconPath": "..\\..\\textures\\nu_content\\ui\\missions\\secret_ingredient.dds", "IconName": null}
+{"IconID": 4786, "IconPath": "..\\..\\textures\\nu_content\\ui\\missions\\johnnyumami_big.dds", "IconName": null}
+{"IconID": 4787, "IconPath": "..\\..\\textures\\nu_content\\ui\\missions\\kobbletoothgetter_tooltip.dds", "IconName": null}

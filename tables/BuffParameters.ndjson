@@ -65,3 +65,4 @@
 {"BuffID": 60, "ParameterName": "overtime", "NumberValue": null, "StringValue": "1496,10,3,0", "EffectID": 8026}
 {"BuffID": 62, "ParameterName": "overtime", "NumberValue": null, "StringValue": "1409,5,1,0", "EffectID": 7237}
 {"BuffID": 63, "ParameterName": "overtime", "NumberValue": null, "StringValue": "1410,5,1,0", "EffectID": 7237}
+{"BuffID": 71, "ParameterName": "overtime", "NumberValue": null, "StringValue": "1820,9999,20,0", "EffectID": null}
