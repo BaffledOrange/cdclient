@@ -493,3 +493,5 @@
 {"ID": 507, "High_path": "\\textures\\auramar\\minifig\\MinifigTorsos\\Torsos_ScaleMailShir1.swf", "CharacterCreateValid": 0, "male": 0, "female": 0}
 {"ID": 508, "High_path": "\\textures\\auramar\\minifig\\MinifigTorsos\\Torsos_Forestman.swf", "CharacterCreateValid": 0, "male": 0, "female": 0}
 {"ID": 511, "High_path": "\\textures\\auramar\\minifig\\MinifigTorsos\\Torsos_ScaleMailShir5.swf", "CharacterCreateValid": 0, "male": 0, "female": 0}
+{"ID": 525, "High_path": "\\textures\\nu_content\\Torsos\\torsos_nushirt.swf", "CharacterCreateValid": 0, "male": 0, "female": 0}
+{"ID": 526, "High_path": "\\textures\\nu_content\\Torsos\\torsos_applearmor.swf", "CharacterCreateValid": 0, "male": 0, "female": 0}

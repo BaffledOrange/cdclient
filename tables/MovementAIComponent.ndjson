@@ -97,3 +97,4 @@
 {"id": 99, "MovementType": "Wander", "WanderChance": 90.0, "WanderDelayMin": 1.0, "WanderDelayMax": 4.0, "WanderSpeed": 3.0, "WanderRadius": 5.0, "attachedPath": null}
 {"id": 100, "MovementType": "Wander", "WanderChance": 90.0, "WanderDelayMin": 3.0, "WanderDelayMax": 10.0, "WanderSpeed": 0.25, "WanderRadius": 5.0, "attachedPath": null}
 {"id": 101, "MovementType": "Wander", "WanderChance": 90.0, "WanderDelayMin": 3.0, "WanderDelayMax": 6.0, "WanderSpeed": 0.5, "WanderRadius": 51.0, "attachedPath": null}
+{"id": 49021, "MovementType": "Wander", "WanderChance": 90.0, "WanderDelayMin": 3.0, "WanderDelayMax": 6.0, "WanderSpeed": 7.0, "WanderRadius": 50.0, "attachedPath": null}

@@ -149,20 +149,21 @@ CREATE TABLE "BehaviorEffect" (
 	PRIMARY KEY("effectID","effectType")
 );
 
+
 CREATE TABLE "BehaviorParameter" (
 	"behaviorID"	INT32 NOT NULL,
 	"parameterID"	TEXT4 NOT NULL,
 	"value"	REAL,
-	PRIMARY KEY("behaviorID","parameterID"),
-	FOREIGN KEY("behaviorID") REFERENCES "BehaviorTemplate"("behaviorID")
+	PRIMARY KEY("behaviorID","parameterID")--,
+	--FOREIGN KEY("behaviorID") REFERENCES "BehaviorTemplate"("behaviorID")
 );
 
 CREATE TABLE "BehaviorTemplate" (
 	"behaviorID"	INT32 NOT NULL,
 	"templateID"	INT32 NOT NULL,
 	"effectID"	INT32 NOT NULL DEFAULT 0,
-	"effectHandle"	TEXT4,
-	FOREIGN KEY("templateID") REFERENCES "BehaviorTemplateName"("templateID")
+	"effectHandle"	TEXT4
+	--FOREIGN KEY("templateID") REFERENCES "BehaviorTemplateName"("templateID")
 );
 
 CREATE TABLE "BehaviorTemplateName" (
@@ -1359,8 +1360,8 @@ CREATE TABLE "SkillBehavior" (
 	"localize"	INT_BOOL NOT NULL DEFAULT 1,
 	"gate_version"	TEXT4,
 	"cancelType"	INT32,
-	PRIMARY KEY("skillID"),
-	FOREIGN KEY("skillID") REFERENCES "BehaviorTemplate"("behaviorID")
+	PRIMARY KEY("skillID")
+	--FOREIGN KEY("skillID") REFERENCES "BehaviorTemplate"("behaviorID")
 );
 
 CREATE TABLE "SmashableChain" (
