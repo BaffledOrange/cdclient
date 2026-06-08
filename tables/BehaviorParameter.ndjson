@@ -221278,7 +221278,7 @@
 {"behaviorID": 61286, "parameterID": "caster", "value": 0.0}
 {"behaviorID": 61286, "parameterID": "ignore_self", "value": 0.0}
 {"behaviorID": 61286, "parameterID": "relative", "value": 0.0}
-{"behaviorID": 61286, "parameterID": "strength", "value": 61187.0}
+{"behaviorID": 61286, "parameterID": "strength", "value": 15.0}
 {"behaviorID": 61282, "parameterID": "behavior 3", "value": 61286.0}
 {"behaviorID": 61281, "parameterID": "on_fail_armor", "value": 61282.0}
 {"behaviorID": 61281, "parameterID": "on_success", "value": 61282.0}
@@ -222254,7 +222254,7 @@
 {"behaviorID": 61469, "parameterID": "caster", "value": 0.0}
 {"behaviorID": 61469, "parameterID": "ignore_self", "value": 0.0}
 {"behaviorID": 61469, "parameterID": "relative", "value": 0.0}
-{"behaviorID": 61469, "parameterID": "strength", "value": 61370.0}
+{"behaviorID": 61469, "parameterID": "strength", "value": 15.0}
 {"behaviorID": 61465, "parameterID": "behavior 3", "value": 61469.0}
 {"behaviorID": 61464, "parameterID": "on_fail_armor", "value": 61465.0}
 {"behaviorID": 61464, "parameterID": "on_success", "value": 61465.0}
@@ -222999,3 +222999,1003 @@
 {"behaviorID": 61619, "parameterID": "armor", "value": 1.0}
 {"behaviorID": 61620, "parameterID": "imagination", "value": 1.0}
 {"behaviorID": 61609, "parameterID": "ignore_faction", "value": 6.0}
+{"behaviorID": 61252, "parameterID": "behavior 3", "value": 61622.0}
+{"behaviorID": 61622, "parameterID": "angle", "value": 45.0}
+{"behaviorID": 61622, "parameterID": "caster", "value": 0.0}
+{"behaviorID": 61622, "parameterID": "ignore_self", "value": 0.0}
+{"behaviorID": 61622, "parameterID": "relative", "value": 0.0}
+{"behaviorID": 61622, "parameterID": "strength", "value": 15.0}
+{"behaviorID": 61435, "parameterID": "behavior 3", "value": 61622.0}
+{"behaviorID": 61623, "parameterID": "angle", "value": 45.0}
+{"behaviorID": 61623, "parameterID": "caster", "value": 0.0}
+{"behaviorID": 61623, "parameterID": "ignore_self", "value": 0.0}
+{"behaviorID": 61623, "parameterID": "relative", "value": 0.0}
+{"behaviorID": 61623, "parameterID": "strength", "value": 15.0}
+{"behaviorID": 61632, "parameterID": "cant_attack", "value": 0.0}
+{"behaviorID": 61632, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61632, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61632, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61632, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61632, "parameterID": "stun_caster", "value": 1.0}
+{"behaviorID": 61631, "parameterID": "action", "value": 61632.0}
+{"behaviorID": 61631, "parameterID": "duration", "value": 0.5}
+{"behaviorID": 61630, "parameterID": "behavior 1", "value": 61631.0}
+{"behaviorID": 61633, "parameterID": "add", "value": 0.0}
+{"behaviorID": 61633, "parameterID": "amount", "value": 0.30000001192092896}
+{"behaviorID": 61630, "parameterID": "behavior 2", "value": 61633.0}
+{"behaviorID": 61638, "parameterID": "dir_angle_xz", "value": -25.0}
+{"behaviorID": 61638, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61640, "parameterID": "angle", "value": 45.0}
+{"behaviorID": 61640, "parameterID": "strength", "value": 50.0}
+{"behaviorID": 61639, "parameterID": "action", "value": 61640.0}
+{"behaviorID": 61643, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61643, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61643, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61643, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61643, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61643, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61643, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61642, "parameterID": "LOT_ID", "value": 61643.0}
+{"behaviorID": 61642, "parameterID": "projectile_speed", "value": 50.0}
+{"behaviorID": 61642, "parameterID": "projectile_type", "value": 2.0}
+{"behaviorID": 61641, "parameterID": "max damage", "value": 61642.0}
+{"behaviorID": 61641, "parameterID": "min damage", "value": 61642.0}
+{"behaviorID": 61639, "parameterID": "angle", "value": 61641.0}
+{"behaviorID": 61645, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61645, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61645, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61645, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61645, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61645, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61645, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61644, "parameterID": "max damage", "value": 61645.0}
+{"behaviorID": 61644, "parameterID": "min damage", "value": 61645.0}
+{"behaviorID": 61639, "parameterID": "max range", "value": 61644.0}
+{"behaviorID": 61639, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61639, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61639, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61638, "parameterID": "dir_force", "value": 61639.0}
+{"behaviorID": 61648, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61648, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61648, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61648, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61648, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61647, "parameterID": "action", "value": 61648.0}
+{"behaviorID": 61647, "parameterID": "duration", "value": 0.6000000238418579}
+{"behaviorID": 61646, "parameterID": "behavior 1", "value": 61647.0}
+{"behaviorID": 61649, "parameterID": "angle", "value": 10.0}
+{"behaviorID": 61649, "parameterID": "strength", "value": 2.5}
+{"behaviorID": 61646, "parameterID": "behavior 2", "value": 61649.0}
+{"behaviorID": 61650, "parameterID": "interrupt_attack", "value": 1.0}
+{"behaviorID": 61650, "parameterID": "interrupt_charge", "value": 1.0}
+{"behaviorID": 61650, "parameterID": "target", "value": 1.0}
+{"behaviorID": 61646, "parameterID": "behavior 3", "value": 61650.0}
+{"behaviorID": 61638, "parameterID": "on_success", "value": 61646.0}
+{"behaviorID": 61637, "parameterID": "action", "value": 61638.0}
+{"behaviorID": 61637, "parameterID": "angle", "value": 61641.0}
+{"behaviorID": 61637, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61651, "parameterID": "angle", "value": 0.0}
+{"behaviorID": 61651, "parameterID": "caster", "value": 1.0}
+{"behaviorID": 61651, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61651, "parameterID": "strength", "value": 2.0}
+{"behaviorID": 61637, "parameterID": "blocked action", "value": 61651.0}
+{"behaviorID": 61637, "parameterID": "check_env", "value": 1.0}
+{"behaviorID": 61637, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61637, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61637, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61637, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61652, "parameterID": "health", "value": 1.0}
+{"behaviorID": 61637, "parameterID": "max range", "value": 61652.0}
+{"behaviorID": 61637, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61637, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61637, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61637, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61637, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61637, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61637, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61637, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61637, "parameterID": "use_picked_target", "value": 0.0}
+{"behaviorID": 61636, "parameterID": "action", "value": 61637.0}
+{"behaviorID": 61636, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61635, "parameterID": "behavior 1", "value": 61636.0}
+{"behaviorID": 61653, "parameterID": "duration", "value": 0.0}
+{"behaviorID": 61653, "parameterID": "to_target", "value": 1.0}
+{"behaviorID": 61635, "parameterID": "behavior 2", "value": 61653.0}
+{"behaviorID": 61654, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61654, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61654, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61654, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61654, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61654, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61654, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61635, "parameterID": "behavior 3", "value": 61654.0}
+{"behaviorID": 61634, "parameterID": "action", "value": 61635.0}
+{"behaviorID": 61634, "parameterID": "angle", "value": 61641.0}
+{"behaviorID": 61634, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61634, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61634, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61634, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61634, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61634, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61634, "parameterID": "max range", "value": 10.0}
+{"behaviorID": 61634, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61634, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61634, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61655, "parameterID": "action", "value": 61635.0}
+{"behaviorID": 61659, "parameterID": "dir_angle_xz", "value": -25.0}
+{"behaviorID": 61659, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61659, "parameterID": "dir_force", "value": 61639.0}
+{"behaviorID": 61658, "parameterID": "behavior 1", "value": 61659.0}
+{"behaviorID": 61660, "parameterID": "angle", "value": 0.0}
+{"behaviorID": 61660, "parameterID": "strength", "value": 3.5}
+{"behaviorID": 61658, "parameterID": "behavior 2", "value": 61660.0}
+{"behaviorID": 61662, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61662, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61662, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61662, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61662, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61661, "parameterID": "action", "value": 61662.0}
+{"behaviorID": 61661, "parameterID": "duration", "value": 0.75}
+{"behaviorID": 61658, "parameterID": "behavior 3", "value": 61661.0}
+{"behaviorID": 61657, "parameterID": "action", "value": 61658.0}
+{"behaviorID": 61657, "parameterID": "angle", "value": 61641.0}
+{"behaviorID": 61657, "parameterID": "max range", "value": 6.0}
+{"behaviorID": 61657, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61657, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61657, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61656, "parameterID": "action", "value": 61657.0}
+{"behaviorID": 61656, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61655, "parameterID": "angle", "value": 61656.0}
+{"behaviorID": 61655, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61655, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61655, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61655, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61655, "parameterID": "max range", "value": 10.0}
+{"behaviorID": 61655, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61655, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61655, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61663, "parameterID": "behavior 1", "value": 61654.0}
+{"behaviorID": 61663, "parameterID": "behavior 2", "value": 61636.0}
+{"behaviorID": 61655, "parameterID": "miss action", "value": 61663.0}
+{"behaviorID": 61655, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61655, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61655, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61655, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61655, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61655, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61634, "parameterID": "miss action", "value": 61655.0}
+{"behaviorID": 61634, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61634, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61634, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61634, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61634, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61634, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61634, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61630, "parameterID": "behavior 3", "value": 61634.0}
+{"behaviorID": 61664, "parameterID": "chain_action", "value": 61629.0}
+{"behaviorID": 61664, "parameterID": "new_delay", "value": 1.0}
+{"behaviorID": 61630, "parameterID": "behavior 4", "value": 61664.0}
+{"behaviorID": 61629, "parameterID": "behavior 1", "value": 61630.0}
+{"behaviorID": 61667, "parameterID": "cant_attack", "value": 0.0}
+{"behaviorID": 61667, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61667, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61667, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61667, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61667, "parameterID": "stun_caster", "value": 1.0}
+{"behaviorID": 61666, "parameterID": "action", "value": 61667.0}
+{"behaviorID": 61666, "parameterID": "duration", "value": 1.0}
+{"behaviorID": 61665, "parameterID": "behavior 1", "value": 61666.0}
+{"behaviorID": 61668, "parameterID": "add", "value": 0.0}
+{"behaviorID": 61668, "parameterID": "amount", "value": 0.30000001192092896}
+{"behaviorID": 61665, "parameterID": "behavior 2", "value": 61668.0}
+{"behaviorID": 61673, "parameterID": "dir_angle_xz", "value": -25.0}
+{"behaviorID": 61673, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61673, "parameterID": "dir_force", "value": 61639.0}
+{"behaviorID": 61676, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61676, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61676, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61676, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61676, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61675, "parameterID": "action", "value": 61676.0}
+{"behaviorID": 61675, "parameterID": "duration", "value": 0.6000000238418579}
+{"behaviorID": 61674, "parameterID": "behavior 1", "value": 61675.0}
+{"behaviorID": 61677, "parameterID": "angle", "value": 10.0}
+{"behaviorID": 61677, "parameterID": "strength", "value": 2.5}
+{"behaviorID": 61674, "parameterID": "behavior 2", "value": 61677.0}
+{"behaviorID": 61674, "parameterID": "behavior 3", "value": 61650.0}
+{"behaviorID": 61673, "parameterID": "on_success", "value": 61674.0}
+{"behaviorID": 61672, "parameterID": "action", "value": 61673.0}
+{"behaviorID": 61672, "parameterID": "angle", "value": 61641.0}
+{"behaviorID": 61672, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61672, "parameterID": "blocked action", "value": 61651.0}
+{"behaviorID": 61672, "parameterID": "check_env", "value": 1.0}
+{"behaviorID": 61672, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61672, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61672, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61672, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61672, "parameterID": "max range", "value": 61652.0}
+{"behaviorID": 61672, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61672, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61672, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61672, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61672, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61672, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61672, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61672, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61672, "parameterID": "use_picked_target", "value": 0.0}
+{"behaviorID": 61671, "parameterID": "action", "value": 61672.0}
+{"behaviorID": 61671, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61670, "parameterID": "behavior 1", "value": 61671.0}
+{"behaviorID": 61670, "parameterID": "behavior 2", "value": 61653.0}
+{"behaviorID": 61678, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61678, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61678, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61678, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61678, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61678, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61678, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61670, "parameterID": "behavior 3", "value": 61678.0}
+{"behaviorID": 61669, "parameterID": "action", "value": 61670.0}
+{"behaviorID": 61669, "parameterID": "angle", "value": 61641.0}
+{"behaviorID": 61669, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61669, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61669, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61669, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61669, "parameterID": "max range", "value": 10.0}
+{"behaviorID": 61669, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61669, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61669, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61679, "parameterID": "action", "value": 61670.0}
+{"behaviorID": 61679, "parameterID": "angle", "value": 61656.0}
+{"behaviorID": 61679, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61679, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61679, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61679, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61679, "parameterID": "max range", "value": 10.0}
+{"behaviorID": 61679, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61679, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61679, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61680, "parameterID": "behavior 1", "value": 61678.0}
+{"behaviorID": 61680, "parameterID": "behavior 2", "value": 61671.0}
+{"behaviorID": 61679, "parameterID": "miss action", "value": 61680.0}
+{"behaviorID": 61679, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61679, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61679, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61679, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61679, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61679, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61669, "parameterID": "miss action", "value": 61679.0}
+{"behaviorID": 61669, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61669, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61669, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61669, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61669, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61669, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61665, "parameterID": "behavior 3", "value": 61669.0}
+{"behaviorID": 61681, "parameterID": "chain_action", "value": 61629.0}
+{"behaviorID": 61681, "parameterID": "new_delay", "value": 1.0}
+{"behaviorID": 61665, "parameterID": "behavior 4", "value": 61681.0}
+{"behaviorID": 61629, "parameterID": "behavior 2", "value": 61665.0}
+{"behaviorID": 61684, "parameterID": "cant_attack", "value": 0.0}
+{"behaviorID": 61684, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61684, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61684, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61684, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61684, "parameterID": "stun_caster", "value": 1.0}
+{"behaviorID": 61683, "parameterID": "action", "value": 61684.0}
+{"behaviorID": 61683, "parameterID": "duration", "value": 1.0}
+{"behaviorID": 61682, "parameterID": "behavior 1", "value": 61683.0}
+{"behaviorID": 61685, "parameterID": "add", "value": 0.0}
+{"behaviorID": 61685, "parameterID": "amount", "value": 1.0}
+{"behaviorID": 61682, "parameterID": "behavior 2", "value": 61685.0}
+{"behaviorID": 61690, "parameterID": "dir_angle_xz", "value": -25.0}
+{"behaviorID": 61690, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61690, "parameterID": "dir_force", "value": 61639.0}
+{"behaviorID": 61690, "parameterID": "max damage", "value": 2.0}
+{"behaviorID": 61690, "parameterID": "min damage", "value": 2.0}
+{"behaviorID": 61693, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61693, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61693, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61693, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61693, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61692, "parameterID": "action", "value": 61693.0}
+{"behaviorID": 61692, "parameterID": "duration", "value": 3.5}
+{"behaviorID": 61691, "parameterID": "behavior 1", "value": 61692.0}
+{"behaviorID": 61694, "parameterID": "angle", "value": 10.0}
+{"behaviorID": 61694, "parameterID": "strength", "value": 2.5}
+{"behaviorID": 61691, "parameterID": "behavior 2", "value": 61694.0}
+{"behaviorID": 61691, "parameterID": "behavior 3", "value": 61650.0}
+{"behaviorID": 61690, "parameterID": "on_success", "value": 61691.0}
+{"behaviorID": 61689, "parameterID": "action", "value": 61690.0}
+{"behaviorID": 61689, "parameterID": "angle", "value": 61641.0}
+{"behaviorID": 61689, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61689, "parameterID": "blocked action", "value": 61651.0}
+{"behaviorID": 61689, "parameterID": "check_env", "value": 1.0}
+{"behaviorID": 61689, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61689, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61689, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61689, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61689, "parameterID": "max range", "value": 61652.0}
+{"behaviorID": 61689, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61689, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61689, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61689, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61689, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61689, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61689, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61689, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61689, "parameterID": "use_picked_target", "value": 0.0}
+{"behaviorID": 61688, "parameterID": "action", "value": 61689.0}
+{"behaviorID": 61688, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61687, "parameterID": "behavior 1", "value": 61688.0}
+{"behaviorID": 61687, "parameterID": "behavior 2", "value": 61653.0}
+{"behaviorID": 61695, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61695, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61695, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61695, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61695, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61695, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61695, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61687, "parameterID": "behavior 3", "value": 61695.0}
+{"behaviorID": 61686, "parameterID": "action", "value": 61687.0}
+{"behaviorID": 61686, "parameterID": "angle", "value": 61641.0}
+{"behaviorID": 61686, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61686, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61686, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61686, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61686, "parameterID": "max range", "value": 10.0}
+{"behaviorID": 61686, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61686, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61686, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61696, "parameterID": "action", "value": 61687.0}
+{"behaviorID": 61696, "parameterID": "angle", "value": 61656.0}
+{"behaviorID": 61696, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61696, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61696, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61696, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61696, "parameterID": "max range", "value": 10.0}
+{"behaviorID": 61696, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61696, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61696, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61697, "parameterID": "behavior 1", "value": 61695.0}
+{"behaviorID": 61697, "parameterID": "behavior 2", "value": 61688.0}
+{"behaviorID": 61696, "parameterID": "miss action", "value": 61697.0}
+{"behaviorID": 61696, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61696, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61696, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61696, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61696, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61696, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61686, "parameterID": "miss action", "value": 61696.0}
+{"behaviorID": 61686, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61686, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61686, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61686, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61686, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61686, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61682, "parameterID": "behavior 3", "value": 61686.0}
+{"behaviorID": 61698, "parameterID": "chain_action", "value": 61629.0}
+{"behaviorID": 61698, "parameterID": "new_delay", "value": 1.0}
+{"behaviorID": 61682, "parameterID": "behavior 4", "value": 61698.0}
+{"behaviorID": 61629, "parameterID": "behavior 3", "value": 61682.0}
+{"behaviorID": 61629, "parameterID": "chain_delay", "value": 1.0}
+{"behaviorID": 61714, "parameterID": "imagination", "value": 1.0}
+{"behaviorID": 61718, "parameterID": "dir_angle_xz", "value": 0.0}
+{"behaviorID": 61718, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61718, "parameterID": "dir_force", "value": 61639.0}
+{"behaviorID": 61718, "parameterID": "max damage", "value": 5.0}
+{"behaviorID": 61718, "parameterID": "min damage", "value": 5.0}
+{"behaviorID": 61720, "parameterID": "interrupt_attack", "value": 1.0}
+{"behaviorID": 61720, "parameterID": "interrupt_charge", "value": 1.0}
+{"behaviorID": 61720, "parameterID": "target", "value": 1.0}
+{"behaviorID": 61719, "parameterID": "behavior 1", "value": 61720.0}
+{"behaviorID": 61721, "parameterID": "angle", "value": 30.0}
+{"behaviorID": 61721, "parameterID": "caster", "value": 0.0}
+{"behaviorID": 61721, "parameterID": "ignore_self", "value": 0.0}
+{"behaviorID": 61721, "parameterID": "relative", "value": 0.0}
+{"behaviorID": 61721, "parameterID": "strength", "value": 35.0}
+{"behaviorID": 61719, "parameterID": "behavior 2", "value": 61721.0}
+{"behaviorID": 61723, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61723, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61723, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61723, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61723, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61723, "parameterID": "stun_caster", "value": 0.0}
+{"behaviorID": 61722, "parameterID": "action", "value": 61723.0}
+{"behaviorID": 61722, "parameterID": "duration", "value": 1.0}
+{"behaviorID": 61719, "parameterID": "behavior 3", "value": 61722.0}
+{"behaviorID": 61718, "parameterID": "on_fail_armor", "value": 61719.0}
+{"behaviorID": 61725, "parameterID": "angle", "value": 0.0}
+{"behaviorID": 61725, "parameterID": "orient_caster", "value": 0.0}
+{"behaviorID": 61725, "parameterID": "relative", "value": 0.0}
+{"behaviorID": 61725, "parameterID": "to_angle", "value": 0.0}
+{"behaviorID": 61725, "parameterID": "to_point", "value": 0.0}
+{"behaviorID": 61725, "parameterID": "to_target", "value": 1.0}
+{"behaviorID": 61724, "parameterID": "behavior 1", "value": 61725.0}
+{"behaviorID": 61724, "parameterID": "behavior 2", "value": 61726.0}
+{"behaviorID": 61718, "parameterID": "on_fail_blocked", "value": 61724.0}
+{"behaviorID": 61718, "parameterID": "on_success", "value": 61719.0}
+{"behaviorID": 61717, "parameterID": "behavior 1", "value": 61718.0}
+{"behaviorID": 61728, "parameterID": "action", "value": 61729.0}
+{"behaviorID": 61728, "parameterID": "max targets", "value": 25.0}
+{"behaviorID": 61728, "parameterID": "radius", "value": 55.0}
+{"behaviorID": 61728, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61728, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61728, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61728, "parameterID": "use_target_as_caster", "value": 0.0}
+{"behaviorID": 61728, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61727, "parameterID": "behavior 1", "value": 61728.0}
+{"behaviorID": 61727, "parameterID": "behavior 2", "value": 61729.0}
+{"behaviorID": 61717, "parameterID": "behavior 2", "value": 61727.0}
+{"behaviorID": 61716, "parameterID": "action", "value": 61717.0}
+{"behaviorID": 61716, "parameterID": "angle", "value": 61656.0}
+{"behaviorID": 61716, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "height", "value": 0.20000000298023224}
+{"behaviorID": 61716, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61716, "parameterID": "max range", "value": 16.0}
+{"behaviorID": 61716, "parameterID": "max targets", "value": 5.0}
+{"behaviorID": 61716, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61716, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "miss action", "value": 61727.0}
+{"behaviorID": 61716, "parameterID": "offset_x", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "offset_y", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "offset_z", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61716, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "target_team", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "upper_bound", "value": 0.20000000298023224}
+{"behaviorID": 61716, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61716, "parameterID": "use_picked_target", "value": 0.0}
+{"behaviorID": 61716, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61715, "parameterID": "action", "value": 61716.0}
+{"behaviorID": 61715, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61715, "parameterID": "ignore_interrupts", "value": 1.0}
+{"behaviorID": 61715, "parameterID": "num_intervals", "value": 1.0}
+{"behaviorID": 61621, "parameterID": "double_jump_action", "value": 61871.0}
+{"behaviorID": 61741, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61741, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61741, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61741, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61741, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61741, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61741, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61740, "parameterID": "max damage", "value": 61741.0}
+{"behaviorID": 61740, "parameterID": "min damage", "value": 61741.0}
+{"behaviorID": 61748, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61748, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61748, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61748, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61748, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61748, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61748, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61747, "parameterID": "max damage", "value": 61748.0}
+{"behaviorID": 61747, "parameterID": "min damage", "value": 61748.0}
+{"behaviorID": 61751, "parameterID": "dir_angle_xz", "value": -25.0}
+{"behaviorID": 61751, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61752, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61752, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61752, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61752, "parameterID": "cant_jump", "value": 1.0}
+{"behaviorID": 61752, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61752, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61752, "parameterID": "cant_use_item", "value": 1.0}
+{"behaviorID": 61752, "parameterID": "ignore_immunity", "value": 0.0}
+{"behaviorID": 61752, "parameterID": "stun_caster", "value": 0.0}
+{"behaviorID": 61751, "parameterID": "dir_force", "value": 61752.0}
+{"behaviorID": 61751, "parameterID": "max damage", "value": 3.0}
+{"behaviorID": 61751, "parameterID": "min damage", "value": 3.0}
+{"behaviorID": 61750, "parameterID": "action", "value": 61751.0}
+{"behaviorID": 61755, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61755, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61755, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61755, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61755, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61755, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61755, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61754, "parameterID": "LOT_ID", "value": 61755.0}
+{"behaviorID": 61754, "parameterID": "projectile_speed", "value": 50.0}
+{"behaviorID": 61754, "parameterID": "projectile_type", "value": 2.0}
+{"behaviorID": 61753, "parameterID": "max damage", "value": 61754.0}
+{"behaviorID": 61753, "parameterID": "min damage", "value": 61754.0}
+{"behaviorID": 61750, "parameterID": "angle", "value": 61753.0}
+{"behaviorID": 61750, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61750, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61750, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61750, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61750, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61750, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61750, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61750, "parameterID": "radius", "value": 10.0}
+{"behaviorID": 61750, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61750, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61750, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61750, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61750, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61750, "parameterID": "use_picked_target", "value": 0.0}
+{"behaviorID": 61749, "parameterID": "action", "value": 61750.0}
+{"behaviorID": 61749, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61749, "parameterID": "num_intervals", "value": 1.0}
+{"behaviorID": 61756, "parameterID": "dir_angle_xz", "value": 0.0}
+{"behaviorID": 61756, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61756, "parameterID": "dir_force", "value": 61752.0}
+{"behaviorID": 61756, "parameterID": "max damage", "value": 1.0}
+{"behaviorID": 61756, "parameterID": "min damage", "value": 1.0}
+{"behaviorID": 61758, "parameterID": "add", "value": 0.0}
+{"behaviorID": 61758, "parameterID": "amount", "value": 1.0}
+{"behaviorID": 61757, "parameterID": "LOT_ID", "value": 61758.0}
+{"behaviorID": 61621, "parameterID": "falling_action", "value": 61871.0}
+{"behaviorID": 61621, "parameterID": "jump_action", "value": 61871.0}
+{"behaviorID": 61762, "parameterID": "behavior 1", "value": 61761.0}
+{"behaviorID": 61765, "parameterID": "block_damage", "value": 1.0}
+{"behaviorID": 61765, "parameterID": "block_knockback", "value": 1.0}
+{"behaviorID": 61765, "parameterID": "block_stuns", "value": 1.0}
+{"behaviorID": 61768, "parameterID": "imagination", "value": 1.0}
+{"behaviorID": 61766, "parameterID": "behavior 1", "value": 61881.0}
+{"behaviorID": 61766, "parameterID": "behavior 2", "value": 61769.0}
+{"behaviorID": 61766, "parameterID": "behavior 3", "value": 61856.0}
+{"behaviorID": 61765, "parameterID": "break_action", "value": 61885.0}
+{"behaviorID": 61765, "parameterID": "num_attacks_can_block", "value": 1.0}
+{"behaviorID": 61761, "parameterID": "action", "value": 61875.0}
+{"behaviorID": 61760, "parameterID": "action", "value": 61762.0}
+{"behaviorID": 61760, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61760, "parameterID": "ignore_interrupts", "value": 0.0}
+{"behaviorID": 61760, "parameterID": "num_intervals", "value": 1.0}
+{"behaviorID": 61776, "parameterID": "behavior 1", "value": 61759.0}
+{"behaviorID": 61778, "parameterID": "chain_action", "value": 61776.0}
+{"behaviorID": 61778, "parameterID": "new_delay", "value": 1.0}
+{"behaviorID": 61777, "parameterID": "behavior 1", "value": 61778.0}
+{"behaviorID": 61782, "parameterID": "affects_caster", "value": 1.0}
+{"behaviorID": 61783, "parameterID": "imagination", "value": 1.0}
+{"behaviorID": 61782, "parameterID": "run_speed", "value": 61783.0}
+{"behaviorID": 61781, "parameterID": "behavior 1", "value": 61782.0}
+{"behaviorID": 61784, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61784, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61784, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61784, "parameterID": "cant_move", "value": 0.0}
+{"behaviorID": 61784, "parameterID": "cant_turn", "value": 0.0}
+{"behaviorID": 61784, "parameterID": "stun_caster", "value": 1.0}
+{"behaviorID": 61781, "parameterID": "behavior 2", "value": 61784.0}
+{"behaviorID": 61780, "parameterID": "action", "value": 61781.0}
+{"behaviorID": 61779, "parameterID": "start_action", "value": 61780.0}
+{"behaviorID": 61777, "parameterID": "behavior 2", "value": 61779.0}
+{"behaviorID": 61785, "parameterID": "add", "value": 0.0}
+{"behaviorID": 61785, "parameterID": "amount", "value": 0.4000000059604645}
+{"behaviorID": 61777, "parameterID": "behavior 3", "value": 61785.0}
+{"behaviorID": 61787, "parameterID": "cant_attack", "value": 0.0}
+{"behaviorID": 61787, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61787, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61787, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61787, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61787, "parameterID": "stun_caster", "value": 1.0}
+{"behaviorID": 61786, "parameterID": "action", "value": 61787.0}
+{"behaviorID": 61786, "parameterID": "duration", "value": 0.6000000238418579}
+{"behaviorID": 61777, "parameterID": "behavior 4", "value": 61786.0}
+{"behaviorID": 61792, "parameterID": "dir_angle_xz", "value": -25.0}
+{"behaviorID": 61792, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61794, "parameterID": "angle", "value": 45.0}
+{"behaviorID": 61794, "parameterID": "strength", "value": 50.0}
+{"behaviorID": 61793, "parameterID": "action", "value": 61794.0}
+{"behaviorID": 61797, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61797, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61797, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61797, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61797, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61797, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61797, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61796, "parameterID": "LOT_ID", "value": 61797.0}
+{"behaviorID": 61796, "parameterID": "projectile_speed", "value": 50.0}
+{"behaviorID": 61796, "parameterID": "projectile_type", "value": 2.0}
+{"behaviorID": 61795, "parameterID": "max damage", "value": 61796.0}
+{"behaviorID": 61795, "parameterID": "min damage", "value": 61796.0}
+{"behaviorID": 61793, "parameterID": "angle", "value": 61795.0}
+{"behaviorID": 61799, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61799, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61799, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61799, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61799, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61799, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61799, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61798, "parameterID": "max damage", "value": 61799.0}
+{"behaviorID": 61798, "parameterID": "min damage", "value": 61799.0}
+{"behaviorID": 61793, "parameterID": "max range", "value": 61798.0}
+{"behaviorID": 61793, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61793, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61793, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61792, "parameterID": "dir_force", "value": 61793.0}
+{"behaviorID": 61792, "parameterID": "max damage", "value": 3.0}
+{"behaviorID": 61792, "parameterID": "min damage", "value": 3.0}
+{"behaviorID": 61802, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61802, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61802, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61802, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61802, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61801, "parameterID": "action", "value": 61802.0}
+{"behaviorID": 61801, "parameterID": "duration", "value": 0.6000000238418579}
+{"behaviorID": 61800, "parameterID": "behavior 1", "value": 61801.0}
+{"behaviorID": 61803, "parameterID": "angle", "value": 10.0}
+{"behaviorID": 61803, "parameterID": "strength", "value": 2.5}
+{"behaviorID": 61800, "parameterID": "behavior 2", "value": 61803.0}
+{"behaviorID": 61800, "parameterID": "behavior 3", "value": 61804.0}
+{"behaviorID": 61792, "parameterID": "on_fail_armor", "value": 61800.0}
+{"behaviorID": 61792, "parameterID": "on_success", "value": 61800.0}
+{"behaviorID": 61792, "parameterID": "use_caster_velocity", "value": 0.0}
+{"behaviorID": 61792, "parameterID": "velocity_multiplier", "value": 1.0}
+{"behaviorID": 61791, "parameterID": "action", "value": 61792.0}
+{"behaviorID": 61791, "parameterID": "angle", "value": 61795.0}
+{"behaviorID": 61791, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "blocked action", "value": 61805.0}
+{"behaviorID": 61791, "parameterID": "check_env", "value": 1.0}
+{"behaviorID": 61791, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61791, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61806, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61806, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61806, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61806, "parameterID": "cant_jump", "value": 1.0}
+{"behaviorID": 61806, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61806, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61806, "parameterID": "cant_use_item", "value": 1.0}
+{"behaviorID": 61806, "parameterID": "ignore_immunity", "value": 0.0}
+{"behaviorID": 61806, "parameterID": "stun_caster", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "max range", "value": 61806.0}
+{"behaviorID": 61791, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61791, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61791, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "offset_x", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "offset_y", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "offset_z", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61791, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "target_team", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61791, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61791, "parameterID": "use_picked_target", "value": 0.0}
+{"behaviorID": 61791, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61790, "parameterID": "action", "value": 61791.0}
+{"behaviorID": 61790, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61789, "parameterID": "behavior 1", "value": 61790.0}
+{"behaviorID": 61789, "parameterID": "behavior 2", "value": 61807.0}
+{"behaviorID": 61808, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61808, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61808, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61808, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61808, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61808, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61808, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61789, "parameterID": "behavior 3", "value": 61808.0}
+{"behaviorID": 61788, "parameterID": "action", "value": 61789.0}
+{"behaviorID": 61788, "parameterID": "angle", "value": 61795.0}
+{"behaviorID": 61788, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61788, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61788, "parameterID": "max range", "value": 61806.0}
+{"behaviorID": 61788, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61788, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61788, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61809, "parameterID": "action", "value": 61789.0}
+{"behaviorID": 61813, "parameterID": "dir_angle_xz", "value": -25.0}
+{"behaviorID": 61813, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61813, "parameterID": "dir_force", "value": 61793.0}
+{"behaviorID": 61812, "parameterID": "behavior 1", "value": 61813.0}
+{"behaviorID": 61814, "parameterID": "angle", "value": 0.0}
+{"behaviorID": 61814, "parameterID": "strength", "value": 3.5}
+{"behaviorID": 61812, "parameterID": "behavior 2", "value": 61814.0}
+{"behaviorID": 61816, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61816, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61816, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61816, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61816, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61815, "parameterID": "action", "value": 61816.0}
+{"behaviorID": 61815, "parameterID": "duration", "value": 0.75}
+{"behaviorID": 61812, "parameterID": "behavior 3", "value": 61815.0}
+{"behaviorID": 61811, "parameterID": "action", "value": 61812.0}
+{"behaviorID": 61811, "parameterID": "angle", "value": 61795.0}
+{"behaviorID": 61811, "parameterID": "max range", "value": 6.0}
+{"behaviorID": 61811, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61811, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61811, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61810, "parameterID": "action", "value": 61811.0}
+{"behaviorID": 61810, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61809, "parameterID": "angle", "value": 61810.0}
+{"behaviorID": 61809, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61809, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61809, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61809, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61809, "parameterID": "max range", "value": 10.0}
+{"behaviorID": 61809, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61809, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61809, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61817, "parameterID": "behavior 1", "value": 61808.0}
+{"behaviorID": 61817, "parameterID": "behavior 2", "value": 61790.0}
+{"behaviorID": 61809, "parameterID": "miss action", "value": 61817.0}
+{"behaviorID": 61809, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61809, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61809, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61809, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61809, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61809, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61788, "parameterID": "miss action", "value": 61809.0}
+{"behaviorID": 61788, "parameterID": "offset_x", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "offset_y", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "offset_z", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61788, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "target_team", "value": 0.0}
+{"behaviorID": 61788, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61788, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61788, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61788, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61777, "parameterID": "behavior 5", "value": 61788.0}
+{"behaviorID": 61776, "parameterID": "behavior 2", "value": 61777.0}
+{"behaviorID": 61819, "parameterID": "chain_action", "value": 61776.0}
+{"behaviorID": 61819, "parameterID": "new_delay", "value": 1.0}
+{"behaviorID": 61818, "parameterID": "behavior 1", "value": 61819.0}
+{"behaviorID": 61818, "parameterID": "behavior 2", "value": 61779.0}
+{"behaviorID": 61820, "parameterID": "add", "value": 0.0}
+{"behaviorID": 61820, "parameterID": "amount", "value": 1.0}
+{"behaviorID": 61818, "parameterID": "behavior 3", "value": 61820.0}
+{"behaviorID": 61822, "parameterID": "cant_attack", "value": 0.0}
+{"behaviorID": 61822, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61822, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61822, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61822, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61822, "parameterID": "stun_caster", "value": 1.0}
+{"behaviorID": 61821, "parameterID": "action", "value": 61822.0}
+{"behaviorID": 61821, "parameterID": "duration", "value": 0.6000000238418579}
+{"behaviorID": 61818, "parameterID": "behavior 4", "value": 61821.0}
+{"behaviorID": 61827, "parameterID": "dir_angle_xz", "value": -25.0}
+{"behaviorID": 61827, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61827, "parameterID": "dir_force", "value": 61793.0}
+{"behaviorID": 61827, "parameterID": "max damage", "value": 3.0}
+{"behaviorID": 61827, "parameterID": "min damage", "value": 3.0}
+{"behaviorID": 61830, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61830, "parameterID": "cant_equip", "value": 0.0}
+{"behaviorID": 61830, "parameterID": "cant_interact", "value": 0.0}
+{"behaviorID": 61830, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61830, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61829, "parameterID": "action", "value": 61830.0}
+{"behaviorID": 61829, "parameterID": "duration", "value": 0.6000000238418579}
+{"behaviorID": 61828, "parameterID": "behavior 1", "value": 61829.0}
+{"behaviorID": 61831, "parameterID": "angle", "value": 10.0}
+{"behaviorID": 61831, "parameterID": "strength", "value": 2.5}
+{"behaviorID": 61828, "parameterID": "behavior 2", "value": 61831.0}
+{"behaviorID": 61828, "parameterID": "behavior 3", "value": 61804.0}
+{"behaviorID": 61827, "parameterID": "on_fail_armor", "value": 61828.0}
+{"behaviorID": 61827, "parameterID": "on_success", "value": 61828.0}
+{"behaviorID": 61827, "parameterID": "use_caster_velocity", "value": 0.0}
+{"behaviorID": 61827, "parameterID": "velocity_multiplier", "value": 1.0}
+{"behaviorID": 61826, "parameterID": "action", "value": 61827.0}
+{"behaviorID": 61826, "parameterID": "angle", "value": 61795.0}
+{"behaviorID": 61826, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "blocked action", "value": 61805.0}
+{"behaviorID": 61826, "parameterID": "check_env", "value": 1.0}
+{"behaviorID": 61826, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61826, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61826, "parameterID": "max range", "value": 61806.0}
+{"behaviorID": 61826, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61826, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61826, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "offset_x", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "offset_y", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "offset_z", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61826, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "target_team", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61826, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61826, "parameterID": "use_picked_target", "value": 0.0}
+{"behaviorID": 61826, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61825, "parameterID": "action", "value": 61826.0}
+{"behaviorID": 61825, "parameterID": "delay", "value": 0.25}
+{"behaviorID": 61824, "parameterID": "behavior 1", "value": 61825.0}
+{"behaviorID": 61824, "parameterID": "behavior 2", "value": 61807.0}
+{"behaviorID": 61832, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61832, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61832, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61832, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61832, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61832, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61832, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61824, "parameterID": "behavior 3", "value": 61832.0}
+{"behaviorID": 61823, "parameterID": "action", "value": 61824.0}
+{"behaviorID": 61823, "parameterID": "angle", "value": 61795.0}
+{"behaviorID": 61823, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61823, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61823, "parameterID": "max range", "value": 61806.0}
+{"behaviorID": 61823, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61823, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61823, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61833, "parameterID": "action", "value": 61824.0}
+{"behaviorID": 61833, "parameterID": "angle", "value": 61810.0}
+{"behaviorID": 61833, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61833, "parameterID": "clear_provided_target", "value": 0.0}
+{"behaviorID": 61833, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61833, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61833, "parameterID": "max range", "value": 10.0}
+{"behaviorID": 61833, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61833, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61833, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61834, "parameterID": "behavior 1", "value": 61832.0}
+{"behaviorID": 61834, "parameterID": "behavior 2", "value": 61825.0}
+{"behaviorID": 61833, "parameterID": "miss action", "value": 61834.0}
+{"behaviorID": 61833, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61833, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61833, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61833, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61833, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61833, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61823, "parameterID": "miss action", "value": 61833.0}
+{"behaviorID": 61823, "parameterID": "offset_x", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "offset_y", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "offset_z", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61823, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "target_team", "value": 0.0}
+{"behaviorID": 61823, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61823, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61823, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61823, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61818, "parameterID": "behavior 5", "value": 61823.0}
+{"behaviorID": 61776, "parameterID": "behavior 3", "value": 61818.0}
+{"behaviorID": 61776, "parameterID": "chain_delay", "value": 1.0}
+{"behaviorID": 61837, "parameterID": "cant_attack", "value": 0.0}
+{"behaviorID": 61837, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61837, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61837, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61837, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61837, "parameterID": "stun_caster", "value": 1.0}
+{"behaviorID": 61836, "parameterID": "action", "value": 61837.0}
+{"behaviorID": 61836, "parameterID": "duration", "value": 0.6000000238418579}
+{"behaviorID": 61839, "parameterID": "behavior 1", "value": 61840.0}
+{"behaviorID": 61839, "parameterID": "behavior 2", "value": 61807.0}
+{"behaviorID": 61839, "parameterID": "behavior 3", "value": 61847.0}
+{"behaviorID": 61838, "parameterID": "action", "value": 61839.0}
+{"behaviorID": 61838, "parameterID": "angle", "value": 90.0}
+{"behaviorID": 61838, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61838, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61838, "parameterID": "max range", "value": 7.0}
+{"behaviorID": 61838, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61838, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61838, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "action", "value": 61839.0}
+{"behaviorID": 61848, "parameterID": "angle", "value": 61810.0}
+{"behaviorID": 61848, "parameterID": "angle_weight", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "check_env", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "distance_weight", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "height", "value": 2.200000047683716}
+{"behaviorID": 61848, "parameterID": "lower_bound", "value": -0.5}
+{"behaviorID": 61848, "parameterID": "max range", "value": 61806.0}
+{"behaviorID": 61848, "parameterID": "max targets", "value": 1.0}
+{"behaviorID": 61848, "parameterID": "method", "value": 1.0}
+{"behaviorID": 61848, "parameterID": "min range", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "miss action", "value": 61849.0}
+{"behaviorID": 61848, "parameterID": "offset_x", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "offset_y", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "offset_z", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61848, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "target_team", "value": 0.0}
+{"behaviorID": 61848, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61848, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61848, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61848, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "miss action", "value": 61848.0}
+{"behaviorID": 61838, "parameterID": "offset_x", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "offset_y", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "offset_z", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61838, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "target_team", "value": 0.0}
+{"behaviorID": 61838, "parameterID": "upper_bound", "value": 5.0}
+{"behaviorID": 61838, "parameterID": "use_attack_priority", "value": 1.0}
+{"behaviorID": 61838, "parameterID": "use_picked_target", "value": 1.0}
+{"behaviorID": 61838, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61621, "parameterID": "ground_action", "value": 61872.0}
+{"behaviorID": 61766, "parameterID": "behavior 4", "value": 61869.0}
+{"behaviorID": 61856, "parameterID": "behavior 1", "value": 61857.0}
+{"behaviorID": 61861, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61861, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61861, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61861, "parameterID": "cant_jump", "value": 1.0}
+{"behaviorID": 61861, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61861, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61861, "parameterID": "cant_use_item", "value": 1.0}
+{"behaviorID": 61861, "parameterID": "ignore_immunity", "value": 0.0}
+{"behaviorID": 61861, "parameterID": "stun_caster", "value": 0.0}
+{"behaviorID": 61859, "parameterID": "behavior 1", "value": 61883.0}
+{"behaviorID": 61863, "parameterID": "imagination", "value": 1.0}
+{"behaviorID": 61859, "parameterID": "behavior 2", "value": 61884.0}
+{"behaviorID": 61859, "parameterID": "behavior 3", "value": 61864.0}
+{"behaviorID": 61865, "parameterID": "action", "value": 61882.0}
+{"behaviorID": 61865, "parameterID": "duration", "value": 1.0}
+{"behaviorID": 61859, "parameterID": "behavior 4", "value": 61865.0}
+{"behaviorID": 61858, "parameterID": "action", "value": 61859.0}
+{"behaviorID": 61858, "parameterID": "max targets", "value": 20.0}
+{"behaviorID": 61868, "parameterID": "duration", "value": 0.25999999046325684}
+{"behaviorID": 61868, "parameterID": "forward", "value": 0.5}
+{"behaviorID": 61868, "parameterID": "left", "value": 0.0}
+{"behaviorID": 61868, "parameterID": "move_target", "value": 0.0}
+{"behaviorID": 61868, "parameterID": "relative", "value": 1.0}
+{"behaviorID": 61868, "parameterID": "yaw", "value": 0.0}
+{"behaviorID": 61868, "parameterID": "yaw_abs", "value": 0.0}
+{"behaviorID": 61867, "parameterID": "max damage", "value": 61868.0}
+{"behaviorID": 61867, "parameterID": "min damage", "value": 61868.0}
+{"behaviorID": 61858, "parameterID": "radius", "value": 15.0}
+{"behaviorID": 61858, "parameterID": "target_enemy", "value": 1.0}
+{"behaviorID": 61858, "parameterID": "target_friend", "value": 0.0}
+{"behaviorID": 61858, "parameterID": "target_self", "value": 0.0}
+{"behaviorID": 61858, "parameterID": "target_team", "value": 0.0}
+{"behaviorID": 61858, "parameterID": "use_target_as_caster", "value": 0.0}
+{"behaviorID": 61858, "parameterID": "use_target_position", "value": 0.0}
+{"behaviorID": 61856, "parameterID": "behavior 2", "value": 61858.0}
+{"behaviorID": 61869, "parameterID": "amount", "value": 5.0}
+{"behaviorID": 61869, "parameterID": "add", "value": 0.0}
+{"behaviorID": 61864, "parameterID": "interrupt_attack", "value": 1.0}
+{"behaviorID": 61864, "parameterID": "interrupt_block", "value": 1.0}
+{"behaviorID": 61864, "parameterID": "interrupt_charge", "value": 1.0}
+{"behaviorID": 61864, "parameterID": "target", "value": 0.0}
+{"behaviorID": 61872, "parameterID": "distance", "value": -1.0}
+{"behaviorID": 61872, "parameterID": "imagination", "value": 5.0}
+{"behaviorID": 61872, "parameterID": "isEnemyFaction", "value": 0.0}
+{"behaviorID": 61872, "parameterID": "action_true", "value": 61760.0}
+{"behaviorID": 61872, "parameterID": "action_false", "value": 61871.0}
+{"behaviorID": 61873, "parameterID": "duration", "value": 2.0}
+{"behaviorID": 61873, "parameterID": "action", "value": 61874.0}
+{"behaviorID": 61874, "parameterID": "behavior 1", "value": 61878.0}
+{"behaviorID": 61875, "parameterID": "behavior 1", "value": 61873.0}
+{"behaviorID": 61875, "parameterID": "behavior 2", "value": 61876.0}
+{"behaviorID": 61876, "parameterID": "delay", "value": 2.0}
+{"behaviorID": 61876, "parameterID": "ignore_interrupts", "value": 1.0}
+{"behaviorID": 61876, "parameterID": "num_intervals", "value": 1.0}
+{"behaviorID": 61876, "parameterID": "action", "value": 61877.0}
+{"behaviorID": 61877, "parameterID": "start_action", "value": 61761.0}
+{"behaviorID": 61878, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61878, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61878, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61878, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61878, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61878, "parameterID": "stun_caster", "value": 1.0}
+{"behaviorID": 61874, "parameterID": "behavior 2", "value": 61879.0}
+{"behaviorID": 61880, "parameterID": "duration", "value": 2.0}
+{"behaviorID": 61880, "parameterID": "action", "value": 61765.0}
+{"behaviorID": 61762, "parameterID": "behavior 2", "value": 61880.0}
+{"behaviorID": 61881, "parameterID": "imagination", "value": -5.0}
+{"behaviorID": 61766, "parameterID": "behavior 5", "value": 61877.0}
+{"behaviorID": 61882, "parameterID": "cant_attack", "value": 1.0}
+{"behaviorID": 61882, "parameterID": "cant_equip", "value": 1.0}
+{"behaviorID": 61882, "parameterID": "cant_interact", "value": 1.0}
+{"behaviorID": 61882, "parameterID": "cant_move", "value": 1.0}
+{"behaviorID": 61882, "parameterID": "cant_turn", "value": 1.0}
+{"behaviorID": 61882, "parameterID": "stun_caster", "value": 0.0}
+{"behaviorID": 61882, "parameterID": "cant_use_item", "value": 1.0}
+{"behaviorID": 61883, "parameterID": "dir_angle_xz", "value": 0.0}
+{"behaviorID": 61883, "parameterID": "dir_angle_y", "value": 0.0}
+{"behaviorID": 61883, "parameterID": "dir_force", "value": 7.0}
+{"behaviorID": 61883, "parameterID": "max damage", "value": 7.0}
+{"behaviorID": 61883, "parameterID": "min damage", "value": 7.0}
+{"behaviorID": 61883, "parameterID": "velocity_multiplier", "value": 1.0}
+{"behaviorID": 61884, "parameterID": "angle", "value": 45.0}
+{"behaviorID": 61884, "parameterID": "caster", "value": 0.0}
+{"behaviorID": 61884, "parameterID": "ignore_self", "value": 0.0}
+{"behaviorID": 61884, "parameterID": "relative", "value": 0.0}
+{"behaviorID": 61884, "parameterID": "strength", "value": 20.0}
+{"behaviorID": 61884, "parameterID": "time_ms", "value": 0.0}
+{"behaviorID": 61885, "parameterID": "action", "value": 61766.0}

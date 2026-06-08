@@ -4263,3 +4263,5 @@
 {"objectTemplate": 49031, "skillID": 379, "castOnType": 1, "AICombatWeight": null}
 {"objectTemplate": 49031, "skillID": 1825, "castOnType": 0, "AICombatWeight": null}
 {"objectTemplate": 49032, "skillID": 1826, "castOnType": 3, "AICombatWeight": null}
+{"objectTemplate": 49042, "skillID": 361, "castOnType": 1, "AICombatWeight": null}
+{"objectTemplate": 49042, "skillID": 1827, "castOnType": 0, "AICombatWeight": null}
